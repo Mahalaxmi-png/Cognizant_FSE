@@ -32,4 +32,16 @@ Demonstrates logging of error and warning messages using the SLF4J framework.
 
 ---
 
+## Week 3
+
+### Spring Core and Maven  
+[Week3_Spring_Core_Maven_HandsOn.docx](Week3_Spring_Core_Maven_HandsOn/Week3_Spring_Core_Maven_HandsOn.docx)  
+Demonstrates configuring a basic Spring application with dependency injection using XML and creating a Maven project with Spring dependencies.
+
+### Spring Data JPA with Spring Boot and Hibernate  
+[Week3_Spring_Data_JPA_HandsOn.docx](Week3_Spring_Data_JPA_HandsOn/Week3_Spring_Data_JPA_HandsOn.docx)  
+Includes a working Spring Boot + Spring Data JPA example using H2 database and explores the difference between JPA, Hibernate, and Spring Data JPA.
+
+---
+
 More weekly uploads will be added as the program progresses.
