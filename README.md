@@ -19,11 +19,11 @@ Includes E-commerce Search and Financial Forecasting exercises with code and out
 ## Week 2
 
 ### PL/SQL Programming  
-[Week2_PL-SQL programming_HandsOn.docx](Week2_PLSQL_HandsOn/Week2_PL-SQL%20programming_HandsOn.docx)  
+[Week2_PL-SQL programming_HandsOn.docx](Week2_PLSQL_HandsOn/Week2-PL-SQL%20programming_HandsOn.docx)  
 Covers control structures and stored procedures related to customer banking scenarios.
 
 ### JUnit & Mockito (Test-Driven Development)  
-[Week2_ Mockito exercises_HandsOn.docx](Week2_Mockito_HandsOn/Week2_%20Mockito%20exercises_HandsOn.docx)  
+[Week2_ Mockito exercises_HandsOn.docx](Week2_Mockito_HandsOn/Week2-%20Mockito%20exercises_HandsOn.docx)  
 Includes unit testing with JUnit 5 and mocking/stubbing using the Mockito framework.
 
 ### SLF4J Logging  
@@ -41,6 +41,14 @@ Demonstrates configuring a basic Spring application with dependency injection us
 ### Spring Data JPA with Spring Boot and Hibernate  
 [Week3_Spring_Data_JPA_HandsOn.docx](Week3_Spring_Data_JPA_HandsOn/Week3_Spring_Data_JPA_HandsOn.docx)  
 Includes a working Spring Boot + Spring Data JPA example using H2 database and explores the difference between JPA, Hibernate, and Spring Data JPA.
+
+---
+
+## Week 4
+
+### Spring REST API  
+[Week4_Spring_REST_HandsOn.docx](Week4_Spring_REST_HandsOn/Week4_Spring_REST_HandsOn.docx)  
+Demonstrates building RESTful web services using Spring Boot and Maven. Covers endpoint creation, HTTP methods, and data exchange formats.
 
 ---
 
